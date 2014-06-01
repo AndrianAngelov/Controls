@@ -1,0 +1,27 @@
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.XML
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.Navigations.DataGridNavigation.resources
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.XML
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.Navigations.DataGridNavigation.resources
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.XML
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.dll
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\bin\Debug\Anyo.WindowsForms.Controls.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.Navigations.DataGridNavigation.resources
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.dll
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsControls\Anyo.WindowsForms.Controls\obj\Debug\Anyo.WindowsForms.Controls.pdb
