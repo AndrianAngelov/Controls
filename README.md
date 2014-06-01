@@ -1,4 +1,4 @@
 Anyo.WindowsForms.Controls
 ==========================
 
-This project contains Windows custom controls.
+This project contains Windows Forms custom controls.
